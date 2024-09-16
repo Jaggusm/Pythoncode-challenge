@@ -1,4 +1,4 @@
-# Pythoncode-challenge
+cd# Pythoncode-challenge
 this is my first Git Repository.
 <br>
-author-jagappa
+author-jagappa jain college
